@@ -1,0 +1,7 @@
+/nix-store
+/.env
+.venv
+.jupyter
+project/data
+project/lightning_logs
+project/mlruns
